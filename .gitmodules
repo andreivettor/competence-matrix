@@ -1,0 +1,3 @@
+[submodule "competence-matrix-frontend"]
+	path = competence-matrix-frontend
+	url = git@github.com:andreivettor/competence-matrix-frontend.git
